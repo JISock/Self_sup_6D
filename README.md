@@ -1,2 +1,5 @@
-# Self_sup_6D
-[3DV'20]Introducing Pose Consistency and Warp-Alignment for Self-Supervised 6D Object Pose Estimation in Color Images
+# [Introducing Pose Consistency and Warp-Alignment for Self-Supervised 6DObject Pose Estimation in Color Images]
+
+**[Juil Sock](https://skf0321.wixsite.com/juil), [Guillermo Garcia-Hernando](https://guiggh.github.io/), [Anil Armagan], [Tae-Kyun Kim](https://sites.google.com/view/tkkim/)  – 3DV 2020**
+
+Code and model will be added soon!
